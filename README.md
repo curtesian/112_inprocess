@@ -7,7 +7,10 @@ The first step is to report to the [XVIII Airborne Corps Reception Company](http
 Once complete, turn in the checklist to the Reception Company and coordinate with your BN POC to arrive at the Battalion. 
 
 ## 2. Battalion In-Processing
-
+### Setting up SOCOM account
+1. Visit tech support personnel in the S-3 operations room to fill out the initial IMT-12 request for an account.
+2. Visit the S-2 to receive their in-processing packet. They will require you to fill out and sign papers about handling classified and confidential information properly. They will also require you to complete a list of online trainings. Print the certificates and bring them back to the S-2 with the packet when complete.
+3. Once S-2 processes the packet, return to the tech support personnel in the S-3 operations room.
 
 
 ## Lessons Learned
