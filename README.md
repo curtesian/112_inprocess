@@ -12,12 +12,19 @@ Once complete, turn in the checklist to the Reception Company and coordinate wit
 Visit the S-1 to get added to their system. Bring Orders, LES, and any missing documents you need to get added to your STP.
 
 ### Setting up SOCOM account
-1. Visit tech support personnel in the S-3 operations room to fill out the initial IMT-12 request for an account.
+1. Visit the IMO in the S-3 operations room to fill out the initial IMT-12 request for an account.
 2. Visit the S-2 to receive their in-processing packet. They will require you to fill out and sign papers about handling classified and confidential information properly. They will also require you to complete a list of online trainings. Print the certificates and bring them back to the S-2 with the packet when complete.
-3. Once S-2 processes the packet, return to the tech support personnel in the S-3 operations room.
+3. Once S-2 processes the packet, return to the IMO in the S-3 operations room. They will issue you a NIPR computer and put in the work order for your SIPR token.
+4. Request access to the 112th I-Drive (sharepoint).
 
 ### GTCC and DTS
 1. Check in with Battalion S-4 about getting your DTS brought into the 112th organization. They will require you to in-process with the Brigade RM.
+2. RM in-processing form found [here](/resources/528th%20Inprocessing%20Checklist%20NEW%20(update%2005AUG22).pdf).
+
+
+### Airborne School Request (Optional/If needed)
+1. Check ATTRS for school dates and confirm with your supervisor the best time to attend the school.
+2. Fill out the [528th School Request Form](/resources/528SRF(NEW).pdf).
 
 ## Lessons Learned
 - You can hit all required briefs for the reception company in the soldier support center in 1 day.
